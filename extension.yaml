@@ -2,7 +2,7 @@ title: Wavacity
 version: 0.0.1
 description: Integrates [Wavacity](https://github.com/ahilss/wavacity). Wavacity is a GPL-2.0 licensed open source wasm build of the popular audio editor audacity.
 author: Georg Zoeller
-origin: https://github.com/omnitool-community/omni-extension-wavacity
+origin: https://github.com/omnitool-community/omni-extension-wavacity.git
 client:
   addToWorkbench: true
   fileIntents:
